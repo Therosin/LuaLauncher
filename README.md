@@ -9,3 +9,5 @@ To use this you need to download either the precompiled binaries from here:
 or compile them yourself from source:
   https://github.com/Therosin/LuaLauncherLib   
 (requires vc2019 + need to be able successfully to compile lua libraries [read more](http://lua-users.org/wiki/BuildingLuaInWindowsForNewbies))
+
+then just place them next to the app/libs folders
